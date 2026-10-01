@@ -17,4 +17,4 @@ Kotlin codebase and shared Compose UI — Android and iOS from one project.
 
 - Email — [vishalbhanderi.dev@gmail.com](mailto:vishalbhanderi.dev@gmail.com)
 - LinkedIn — [linkedin.com/in/vishalbhanderii](https://linkedin.com/in/vishalbhanderii)
-- X — [https://x.com/vishalbhander19](https://x.com/https://x.com/vishalbhander19)
+- X — [https://x.com/vishalbhander19](https://x.com/vishalbhander19)
